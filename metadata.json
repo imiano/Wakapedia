@@ -1,0 +1,6 @@
+{
+  "name": "Castro AI",
+  "description": "The Intelligent Construction & Engineering Operating System. Combine project management, AI planner, smart material calculators, BOQ generator, site diary, drawing hub, and engineering learning resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
